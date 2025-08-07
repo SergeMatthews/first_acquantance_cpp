@@ -6,8 +6,9 @@ using namespace std;
 int main()
 {
     setlocale(LC_ALL, "RU");
-    cout << "Сергей" << endl << "31" << endl;
+    cout << "Сергей" << endl << 31 << endl;
     
     return 0;
 }
+
 
